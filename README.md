@@ -4,4 +4,24 @@ This repository will host the development of code for the coursework required fo
 
 We will be researching the classification of fruit using images and other features.
 
+### Project setup:
+
+Two main notebooks accompany this report: CreateCNNModel.ipynb (With accompanying data in ‘HandsData/’), and HandRecognition.ipynb (with accompanying models in ‘Model Versions/’). Further to this, the folder ‘Research’ includes some examples of research and testing that were carried out before reaching the final product, however these are not essential to this report.
+
+The final tree for the code and data should look as follows:
+
+•	CreateCNNModel.ipynb
+•	HandRecognition.ipynb
+•	HandsData/
+  o One/
+    	Images of one finger.jpg
+  o	None/
+    	Images of no fingers.jpg
+  o SelectiveSearch.jpg
+•	Model Versions/
+  o	HandModelV#.h5
+•	Research/
+  o	Further research notebooks.
+
+
 - Ben & Sophie
