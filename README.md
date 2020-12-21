@@ -2,7 +2,10 @@
 
 This repository will host the development of code for the coursework required for the Introduction to AI module.
 
-We will be researching the classification of fruit using images and other features.
+We will be researching the classification of gestures of hands in a live video.
+
+If viewing this readme outside of github, the repository link is as follows: <br />
+https://github.com/BenMarkFrost/IntroToAIBenSophie
 
 ### Project setup:
 
