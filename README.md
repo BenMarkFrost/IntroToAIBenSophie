@@ -8,8 +8,8 @@ We will be researching the classification of fruit using images and other featur
 
 To set up this project, git clone this repository into a new folder, and download the data files from one of the following mirrors:
 
-• https://www.dropbox.com/s/b2r0cb4aav7c6tv/Benjamin%20Sophie%20AI%20Data.zip?dl=1 <br />
-• https://mega.nz/file/GJRVXChZ#UHtMmYrbSndvNANZgIexFiXzJKaIdX2WMpSmYiEezXY
+• https://www.dropbox.com/s/e0754zr9uqcxz2v/Benjamin%20Sophie%20AI%20HandsData.zip?dl=1 <br />
+• https://mega.nz/file/bc4whQ7C#bEINO1sIPLZX1BT3hzEfEUMDLVuzOwDLMMS0PurVimc
 
 Two main notebooks accompany this report: CreateCNNModel.ipynb (With accompanying data in ‘HandsData/’), and HandRecognition.ipynb (with accompanying models in ‘Model Versions/’). Further to this, the folder ‘Research’ includes some examples of research and testing that were carried out before reaching the final product, however these are not essential to this report.
 
@@ -27,6 +27,8 @@ The final tree for the code and data should look as follows:
   o	HandModelV#.h5 <br />
 •	Research/ <br />
   o	Further research notebooks.<br />
+• ProgressVideos/ <br />
+  o V#.mp4
 
 
 - Ben & Sophie
