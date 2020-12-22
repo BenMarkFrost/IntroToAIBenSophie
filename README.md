@@ -18,27 +18,3 @@ To set up this project, git clone this repository into a new folder, and downloa
 Extract the downloaded file and place the directory 'HandsData/' on the same level as the CreateCNNModel.ipynb and HandRecognition.ipynb notebooks.
 
 The folder ‘Research’ includes some examples of research and testing that were carried out before reaching the final product, however these are not essential to this report.
-
-The final tree for the code and data should look as follows:
-
-•	CreateCNNModel.ipynb <br />
-•	HandRecognition.ipynb <br />
-
-•	HandsData/ <br />
-  o One/ <br />
-    	Images of one finger.jpg <br />
-  o	None/ <br />
-    	Images of no fingers.jpg <br />
-  o SelectiveSearch.jpg <br />
-
-•	Model Versions/ <br />
-  o	HandModelV#.h5 <br />
-
-•	Research/ <br />
-  o	Further research notebooks.<br />
-
-• ProgressVideos/ <br />
-  o V#.mp4
-
-
-- Ben & Sophie
